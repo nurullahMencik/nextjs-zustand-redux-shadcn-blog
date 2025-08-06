@@ -1,4 +1,4 @@
-"use client" 
+"use client" //page sayfalarında use clint kullanma baska componette kullan homda onu cagır
 import useStore from "@/zustand/useStore";
 import Image from "next/image";
 import { useDispatch } from "react-redux";
