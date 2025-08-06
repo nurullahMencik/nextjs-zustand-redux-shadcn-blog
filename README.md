@@ -1,3 +1,5 @@
+Next.js (app router) ile SSR ve client-side fetch içeren blog sitesi. React state yönetimi için Zustand ve Redux Toolkit kullanıldı. Modern React hook’ları, API entegrasyonu ve ortam değişkenleri pratiği yapıldı. Teknolojiler: Next.js 15, React, Zustand, Redux Toolkit, TypeScript, Tailwind CSS. Amaç: SSR, client fetch ve state management öğrenmek için yaptığım çalışma.
+
 ````
 ├── app/                  # Next.js uygulama dizini (App Router)
 │   ├── (auth)/           # Kimlik doğrulama ile ilgili sayfalar ve bileşenler
